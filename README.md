@@ -16,6 +16,6 @@
 
 Construa as páginas de **Produto** e **Finalização de Compra** com base nos arquivos disponíveis na pasta **design**.
 
-O usuário irá preencher a quantidade do(s) produto(s) desejado(s), inserir os dados no formulário e finalizar a venda. Na página de **finalização de compra** exibir o nome do cliente e o valor total da compra.
+O usuário irá preencher a quantidade do(s) produto(s) desejado(s), inserir os dados no formulário e finalizar a venda. Na página de **finalização de compra** exibir o nome do cliente e o valor total da compra, e no botão **iniciar nova compra** redirecionar para a tela de produtos.
 
 > *Não é necessário implementar nenhum código back-end, as informações ficarão todas armazenadas no browser.*
